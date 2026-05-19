@@ -1,0 +1,126 @@
+body   {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #A6E8A8, #A9E6E5, #A9C9E6);
+    border: black solid 2px;
+    padding: 15px;
+}
+#garis {
+    border-top: dashed black 2px;
+    margin-bottom: 10px;
+}
+nav {
+    text-align: center;
+    border: black solid 2px;
+    border-radius: 10px;
+    display: flex;
+}
+#home
+{
+    color: black;
+    border: black solid 2px;
+    border-radius: 10px;
+    background-color:   #A6E8A8;
+    padding: 7px;
+    margin-right: 20px;
+}
+#about
+{
+    color: black;
+    border: black solid 2px;
+    border-radius: 10px;
+    background-color: #A6E8A8;
+    padding: 7px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#game
+{
+    color: black;
+    border: black solid 2px;
+    border-radius: 10px;
+    background-color: #A6E8A8;
+    padding: 7px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#contact
+{
+    color: black;
+    border: black solid 2px;
+    border-radius: 10px;
+    background-color: #A6E8A8;
+    padding: 7px;
+    margin-left: 20px;
+}
+
+#o {
+    color: black;
+    border: black solid 3px;
+    border-radius: 10px;
+    padding: 7px;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+#head1 {
+   text-align: center;
+   border:black solid 4px;
+   background-color:#A6E8A8;
+   border-radius: 10px;
+   padding: 10px;
+}
+#img1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+#nama {
+    text-decoration: wavy underline;
+}
+#article1 {
+    border: black solid 4px;
+    background-color: #A6E8A8;
+    padding: 10px;
+}
+#overview {
+    text-align: center;
+    font-size: 20px;
+}
+#border1 {
+    border: black solid 2px;
+    border-radius: 10px;
+    background-color: #A6E8A8;
+    padding: 15px;
+}
+th {
+    border: black solid 2px;
+    background-color: #A6E8A8;
+    padding: 10px;
+}
+td {
+    border: black solid 2px;
+    background-color: #A6E8A8;
+    padding: 10px;
+}
+#vid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 500px;
+    border: black solid 2px;
+    border-radius: 10px;
+    background-color: #A6E8A8;
+}
+#fieldset1 {
+    border: black solid 2px;
+    border-radius: 10px;
+    background-color: #A6E8A8;
+    padding: 15px;
+}
+#fieldset2 {
+    background-color: #A6E8A8;
+    border: black solid 2px;
+    border-radius: 10px;
+    padding: 15px;
+}
